@@ -53,7 +53,7 @@ It traditionally follows rule-based workflows: "If this happens → then do that
   - Google Drive (save files)
 - ⚙️ Creating an **end-to-end AI assistant workflow**
 
-
+---
 🎥 **Watch the Full Video Tutorial**:  
 [![YouTube Video](https://img.youtube.com/vi/z3ukQlyI0g8/0.jpg)](https://www.youtube.com/watch?v=z3ukQlyI0g8&ab_channel=ShabrinathMotamary)
 
