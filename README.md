@@ -13,6 +13,25 @@ This repository demonstrates how to connect **OpenAI** to **Zapier MCP (Model Co
 > Think of MCP as a **universal adapter** for AI — connecting your language model to various tools like Gmail, Docs, Notion, or Slack without writing glue code.
 
 ---
+## Why is MCP Needed Instead of Direct APIs?
+
+-   APIs are rigid and require **custom code for each app**.
+
+-   MCP gives a **unified way** to talk to different tools --- no matter which app.
+
+-   It reduces complexity by **removing the need to write glue code**.
+
+-   Think of it like giving AI a **universal remote control** instead of handing it 10 different remotes for each app.
+
+---
+
+## What is Zapier?
+
+**Zapier is a no-code automation tool** that connects thousands of apps like Gmail, Slack, Google Drive, and more.
+
+It traditionally follows rule-based workflows: "If this happens → then do that"
+
+
 
 ## 🚀 Why Use Zapier MCP?
 
