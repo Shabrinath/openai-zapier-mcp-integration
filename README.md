@@ -1,8 +1,7 @@
 # 🤖 OpenAI + Zapier MCP Integration
 This repository demonstrates how to connect **OpenAI** to **Zapier MCP (Model Context Protocol)** — enabling intelligent, no-code workflows with ease.
 
-🎥 **Watch the Full Video Tutorial**:  
-[![YouTube Video](https://img.youtube.com/vi/z3ukQlyI0g8/0.jpg)](https://www.youtube.com/watch?v=z3ukQlyI0g8&ab_channel=ShabrinathMotamary)
+![image.png](https://eraser.imgix.net/workspaces/taih6PI8FAD0TR7B2dN2/UzaJbbPcFHTOwZxxamVURqkxyHs1/5j-0cbijwliNU18AKRj4B.png?ixlib=js-3.7.0 "image.png")
 
 ---
 
@@ -53,7 +52,11 @@ It traditionally follows rule-based workflows: "If this happens → then do that
   - Google Docs (write content)
   - Google Drive (save files)
 - ⚙️ Creating an **end-to-end AI assistant workflow**
-- 
+
+
+🎥 **Watch the Full Video Tutorial**:  
+[![YouTube Video](https://img.youtube.com/vi/z3ukQlyI0g8/0.jpg)](https://www.youtube.com/watch?v=z3ukQlyI0g8&ab_channel=ShabrinathMotamary)
+
 ---
 
 ## 🛠 Tools & Services Used
